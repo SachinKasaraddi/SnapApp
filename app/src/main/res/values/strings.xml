@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Snap App</string>
+    <string name="description">Description</string>
+    <string name="snaps_error">Couldn\'t show the snaps,Please refresh</string>
+    <string name="authenctication_faileds">Authentication failed!</string>
+    <string name="google_play_error">Google Play Services error.</string>
+    <string name="sign_in_failed">SignIn: failed!</string>
+    <string name="snap_user">Snap User</string>
+    <string name="logout">Logout</string>
+    <string name="no_snaps">No snaps posted please add some by clicking +</string>
+</resources>
